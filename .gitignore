@@ -1,0 +1,5 @@
+CSV/
+.venv/
+.history/
+__pycache__/
+*.pyc
